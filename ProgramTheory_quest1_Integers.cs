@@ -8,5 +8,6 @@ class MainClass {
     short z = short.MaxValue;
 
     ulong sum = (ulong)x + (ulong)y + (ulong)z;
+    Console.WriteLine(sum);
   }
  }
