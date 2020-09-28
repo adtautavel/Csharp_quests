@@ -7,6 +7,6 @@ class MainClass {
     long y = long.MaxValue;
     short z = short.MaxValue;
 
-    long sum = x+y+z;
+    ulong sum = (ulong)x + (ulong)y + (ulong)z;
   }
  }
