@@ -7,7 +7,7 @@ class MainClass {
     long y = long.MaxValue;
     short z = short.MaxValue;
 
-    ulong sum = (ulong)x + (ulong)y + (ulong)z;
+    ulong sum = (ulong)(x+y+z);
     Console.WriteLine(sum);
   }
  }
