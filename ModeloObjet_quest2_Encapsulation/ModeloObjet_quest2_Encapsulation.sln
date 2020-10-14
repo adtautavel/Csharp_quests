@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloObjet_quest2_Encapsulation", "ModeloObjet_quest2_Encapsulation\ModeloObjet_quest2_Encapsulation.csproj", "{8CCF37EE-F79A-45B6-BCC4-7887D7544091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCF37EE-F79A-45B6-BCC4-7887D7544091}.Debug|x86.ActiveCfg = Debug|x86
+		{8CCF37EE-F79A-45B6-BCC4-7887D7544091}.Debug|x86.Build.0 = Debug|x86
+		{8CCF37EE-F79A-45B6-BCC4-7887D7544091}.Release|x86.ActiveCfg = Release|x86
+		{8CCF37EE-F79A-45B6-BCC4-7887D7544091}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
